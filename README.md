@@ -1,26 +1,35 @@
-# Hi, I'm Noah, ! 👋
-
+# Hi, I'm Noah! 👋
 
 ## 🚀 About Me
-I'm currently a second year student in bachelor degrees in computer science. Passionate about techs, I would like to work as a developer in any language.
+I'm currently a third-year student pursuing a bachelor's degree in computer science. Passionate about technology.
 
-Currently, I am interested in computer security, web development.
+Currently, I am exploring computer security and web development.
 
-👩‍💻 I'm currently working on a dynamic website, it's an online shop for Brittany product. It's a university project in teams of 6 which use PHP & MySQL, BootStrap and agile method.
+<p align="left">🌊 Based in Brittany, France<br><br>
+  👨‍🎓 Computer science student in apprenticeship with the French Navy ⚓<br><br>
+  🚀 I love web development<br><br>
+  🖥️ Currently in the final year of my bachelor's degree<br><br>
+  🌐 My work is essentially focused on web development<br><br>
+  🛠️ Favorite tech: HTML, CSS, JavaScript, and foremost PHP<br><br>
+  📚 I enjoy learning new skills</p>
 
-
-## 🛠 Skills
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Python
-- C
-- Java
-- SQL
-
+<h2 align="left">I code with</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
+</div>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://noahdev.fr)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-brohan/)
-

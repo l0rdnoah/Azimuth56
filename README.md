@@ -31,7 +31,7 @@ Currently, I am exploring computer security and web development.
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Microsoft_Access_2013-2019_logo.svg/640px-Microsoft_Access_2013-2019_logo.svg.png" height="40" alt="Java logo"  />
 </div>
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Microsoft_Access_2013-2019_logo.svg/640px-Microsoft_Access_2013-2019_logo.svg.png
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://noahdev.fr)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-brohan/)

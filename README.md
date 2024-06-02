@@ -6,7 +6,7 @@ I'm currently a third-year student pursuing a bachelor's degree in computer scie
 Currently, I am exploring computer security and web development.
 
 <p align="left">🌊 Based in Brittany, France<br><br>
-  👨‍🎓 Computer science student in apprenticeship with the French Navy ⚓<br><br>
+  👨‍🎓 Computer science student in apprenticeship <br><br>
   🚀 I love web development<br><br>
   🖥️ Currently in the final year of my bachelor's degree<br><br>
   🌐 My work is essentially focused on web development<br><br>
